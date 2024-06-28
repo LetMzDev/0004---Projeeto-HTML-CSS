@@ -1,4 +1,8 @@
 body {
-	background-color:black;	/* Altera a cor do background da página */
-	color:white;	/* Cor do texto */
+	background-color: #000000;	/* Altera a cor do background da página */
+	color: #F6F6F6;	/* Cor do texto */
+}
+
+strong {
+	color: #22D4FD;
 }
