@@ -5,6 +5,12 @@
 - [MDN Web Docs Semântica](https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics)
 - [Documentação Oficial do Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)
 - [CSS Tutorial](https://www.w3schools.com/css/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+___
+## Elementos
+- [Documentação do Mozilla sobre Flexbox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	-  Simplifica e abrange tudo sobre o layout CSS Flexbox, explicando sobre as diferentes propriedades para o elemento pai e os elementos filhos.
 ___
 ## Cores
 - [Tabela de Cores](https://www.w3schools.com/tags/ref_colornames.asp)

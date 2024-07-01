@@ -1,0 +1,39 @@
+/** {
+	margin: 0;
+	padding: 0;
+}*/
+
+body {
+	height: 100vh;	/* Ocupa 100% da altura da tela, sem deixar espaços em branco acima ou abaixo do conteúdo.*/
+	width: 100%;
+	align-items: center;
+	box-sizing: border-box; /* garantir que todos os elementos filhos dentro do body não ultrapassem os limites, especialmente ao adicionar bordas e paddings */
+	justify-content: center;
+
+	background-color: #17160b;
+	color: #FEBB5F;
+}
+
+h1 {
+	color: #FFD15B;
+}
+
+h2 {
+	color: #FCE065;
+}
+
+.layout-1 {
+	display: flex;
+	align-items: center;
+}
+
+.layout-2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.layout-3 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}

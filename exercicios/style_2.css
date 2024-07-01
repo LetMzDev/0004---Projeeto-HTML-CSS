@@ -1,3 +1,9 @@
+/* Reset CSS */
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	background-color: #17160b;
 	color: #FEBB5F;
@@ -9,4 +15,30 @@ h1 {
 
 h2 {
 	color: #FCE065;
+}
+
+.texto-destaque {
+	color: bisque;
+}
+
+.titulo-blog {
+	color:#b2ac92;
+}
+
+.urgente {
+	color:red;
+}
+
+.formatar {
+	margin: 10px;
+	border: 2px solid rgb(230, 105, 105);
+	padding: 5px;
+}
+
+.formatar-2 {
+	/* width: 200px;			/* Largura do conteúdo */
+	/* height: 100px;			/* Altura do conteúdo */
+	padding: 20px;				/* Espaço interno ao redor do conteúdo */
+	border: 1px solid black;	/* Borda ao redor do padding */
+	margin: 10px;				/* Espaço externo ao redor da borda */
 }
