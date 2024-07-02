@@ -10,7 +10,12 @@ ___
 ## Elementos
 - [Documentação do Mozilla sobre Flexbox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-	-  Simplifica e abrange tudo sobre o layout CSS Flexbox, explicando sobre as diferentes propriedades para o elemento pai e os elementos filhos.
+	- Simplifica e abrange tudo sobre o layout CSS Flexbox, explicando sobre as diferentes propriedades para o elemento pai e os elementos filhos.
+-[Propriedade *gap*](https://css-tricks.com/almanac/properties/g/gap/)
+	- Especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column. 
+___
+## Outros
+- (CSS-Tricks)[https://css-tricks.com/]
 ___
 ## Cores
 - [Tabela de Cores](https://www.w3schools.com/tags/ref_colornames.asp)
