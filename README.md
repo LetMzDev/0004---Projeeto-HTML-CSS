@@ -22,3 +22,7 @@ ___
 	-  Dispõe de diversas paletas elaboradas. Você consegue encontrar a combinação que mais te agrada e consegue buscar por palavras-chave como pastel, vintage, neon e assim por diante. E caso não encontre nenhuma que te agrade, você consegue criar a sua própria paleta clicando nos três pontinhos do canto superior direito da página.
 - [Color Tool - Material Design](https://m3.material.io/styles/color/system/overview)
 	- Ótimo para criar, compartilhar e aplicar paletas de cores à interface do usuário, bem como é possível medir o nível de acessibilidade de qualquer combinação de cores na aba accessibility.
+___
+## Fontes
+- [Google Fontes](https://fonts.google.com)
+	- [API Google Fontes](https://developers.google.com/fonts/docs/getting_started?hl=pt-br)
