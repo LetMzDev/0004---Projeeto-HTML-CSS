@@ -28,7 +28,6 @@ body {
 	display: flex; /* Por padrão é row */
 	flex-direction: column;
 	gap: 40px;		/* Adiciona um espaçamento entre os elementos-filhos */
-
 }
 
 .apresentacao__conteudo--titulo {
@@ -42,18 +41,29 @@ body {
 }
 
 .apresentacao__links {
-	display: flex;
+	display: flex;			/* Por padrão em row */
+	flex-direction: column;	/* Muda para column */
 	justify-content: space-between;
+	align-items: center;	/* Alinha os elementos no centro */
+	gap: 32px;				/* Adicionar espaçamento entre os elementos */
+}
+
+.apresentacao__links__subtitulo
+{
+	font-family: "Krona One", sans-serif;
+	font-size: 24px;
+	font-weight: 400;
 }
 
 .apresentacao__links__link {
-	background-color: #22D4FD;		/* Cor de fundo */
-	width: 280px;					/* Largura */
+	/* background-color: #22D4FD;		Cor de fundo */
+	border: 2px solid #22D4FD;
+	width: 378px;					/* Largura */
 	text-align: center;				/* Centralizar texto */
-	border-radius: 16px;			/* Arredonda a borda */
+	border-radius: 8px;			/* Arredonda a borda */
 	font-size: 24px;
 	font-weight: 600;				/* Peso da fonte */
-	color:#000000;
+	color:#F6F6F6;
 	padding: 21.5px 0;				/* O primeiro valor é vertical, o segundo é horizontal */
 	text-decoration: none;			/* Remove a decoração do texto ( no caso do link ) */
 	font-family: "Montserrat", sans-serif;

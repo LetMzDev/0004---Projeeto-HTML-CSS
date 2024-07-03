@@ -12,10 +12,12 @@ ___
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 	- Simplifica e abrange tudo sobre o layout CSS Flexbox, explicando sobre as diferentes propriedades para o elemento pai e os elementos filhos.
 -[Propriedade *gap*](https://css-tricks.com/almanac/properties/g/gap/)
-	- Especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column. 
+	- Especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column.
+-[Bordas CSS](https://www.w3schools.com/css/css_border.asp)
 ___
 ## Outros
 - (CSS-Tricks)[https://css-tricks.com/]
+	- É um recurso abrangente para desenvolvedores web, focado principalmente em CSS (Cascading Style Sheets) e tecnologias relacionadas.
 ___
 ## Cores
 - [Tabela de Cores](https://www.w3schools.com/tags/ref_colornames.asp)

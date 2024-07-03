@@ -16,12 +16,33 @@
 			.container {
  				display: flex; /* Classe que terá a tecnologia Flexbox */ 
 			}
+			.minha-classe {
+				/* border: solid red 3px; */
+				border-style: solid;
+				border-color: red;
+				border-width: 3px;
+				/* Estilizar cada uma das partes da borda */
+				border-top: solid blue 2px; /* Estilizar o topo de um elemento */
+				border-left: solid gray 2px;
+				border-right: solid gray 2px;
+				border-bottom: solid gray 2px;
+
+				/* Deixa arredondado as bordas */
+				border-top-left-radius: 10px;
+				border-top-right-radius: 10px;
+				border-bottom-left-radius: 10px;
+				border-bottom-right-radius: 10px;
+
+				/* Adicionar uma imagem na borda */
+				border-top: solid blue 2px;
+				border-image:url("caminho/da/imagem.png")
+			}
 		</style>
 
 	</head>
 
 	<body>
-		<!-- O elemento define o corpo do documento e é um contêiner para todos os conteúdos visíveis, como títulos, parágrafos, imagens, hiperlinks, tabelas, listas, etc. -->
+		<!-- O elemento define o corpo do documento e é um container para todos os conteúdos visíveis, como títulos, parágrafos, imagens, hyperlinks, tabelas, listas, etc. -->
 
 		<header>
 			<!--A tag em HTML é usada para definir a seção de cabeçalho de um documento ou de uma seção de um documento. -->
@@ -53,7 +74,7 @@
 		-->
 
 		<a></a>
-		<!-- âncora, cria hiperlinks -->
+		<!-- âncora, cria hyperlinks -->
 		<p>Visite a <a href="https://www.exemplo.com">Exemplo</a> para mais informações.</p>
 
 
