@@ -48,8 +48,7 @@ body {
 	gap: 32px;				/* Adicionar espaçamento entre os elementos */
 }
 
-.apresentacao__links__subtitulo
-{
+.apresentacao__links__subtitulo {
 	font-family: "Krona One", sans-serif;
 	font-size: 24px;
 	font-weight: 400;
@@ -57,6 +56,11 @@ body {
 
 .apresentacao__links__link {
 	/* background-color: #22D4FD;		Cor de fundo */
+	display: flex;
+	justify-content: center;
+	gap: 16px;
+
+	align-items: center;
 	border: 2px solid #22D4FD;
 	width: 378px;					/* Largura */
 	text-align: center;				/* Centralizar texto */
@@ -67,4 +71,15 @@ body {
 	padding: 21.5px 0;				/* O primeiro valor é vertical, o segundo é horizontal */
 	text-decoration: none;			/* Remove a decoração do texto ( no caso do link ) */
 	font-family: "Montserrat", sans-serif;
+}
+
+.apresentacao__links__link:hover {
+	cursor: pointer;
+	background-color: rgb(90, 134, 146);
+}
+
+img:hover {
+	border-style: solid;
+	border-color:aqua;
+	border-width:3px;
 }
