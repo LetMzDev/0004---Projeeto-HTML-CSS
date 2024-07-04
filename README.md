@@ -18,6 +18,7 @@ ___
 ## Outros
 - [CSS-Tricks](https://css-tricks.com/)
 	- É um recurso abrangente para desenvolvedores web, focado principalmente em CSS (Cascading Style Sheets) e tecnologias relacionadas.
+- [CSS-Variáveis](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
 ___
 ## Cores
 - [Tabela de Cores](https://www.w3schools.com/tags/ref_colornames.asp)
