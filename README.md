@@ -16,7 +16,7 @@ ___
 - [Bordas CSS](https://www.w3schools.com/css/css_border.asp)
 ___
 ## Outros
-- (CSS-Tricks)[https://css-tricks.com/]
+- [CSS-Tricks](https://css-tricks.com/)
 	- É um recurso abrangente para desenvolvedores web, focado principalmente em CSS (Cascading Style Sheets) e tecnologias relacionadas.
 ___
 ## Cores
@@ -32,4 +32,4 @@ ___
 ___
 ## Fontes
 - [Google Fontes](https://fonts.google.com)
-	- [API Google Fontes](https://developers.google.com/fonts/docs/getting_started?hl=pt-br)
+- [API Google Fontes](https://developers.google.com/fonts/docs/getting_started?hl=pt-br)
