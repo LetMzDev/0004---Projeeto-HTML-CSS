@@ -14,6 +14,7 @@ ___
 - [Propriedade *gap*](https://css-tricks.com/almanac/properties/g/gap/)
 	- Especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column.
 - [Bordas CSS](https://www.w3schools.com/css/css_border.asp)
+- [Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 ___
 ## Outros
 - [CSS-Tricks](https://css-tricks.com/)
