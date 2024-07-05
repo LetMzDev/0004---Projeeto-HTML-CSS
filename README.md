@@ -34,3 +34,7 @@ ___
 ## Fontes
 - [Google Fontes](https://fonts.google.com)
 - [API Google Fontes](https://developers.google.com/fonts/docs/getting_started?hl=pt-br)
+___
+## Unidades de Medidas
+- [w3schools](https://www.w3schools.com/cssref/css_units.php)
+- [Converter Unidades de Medidas](https://codebeautify.org/px-to-rem-converter)

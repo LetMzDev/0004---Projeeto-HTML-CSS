@@ -32,7 +32,7 @@ body {
 
 .cabecalho__menu__link {
 	font-family: var(--fonte-secundaria);
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-weight: 600;
 	color: var(--cor-terciaria);
 	text-decoration: none;
@@ -46,14 +46,15 @@ body {
 }
 
 .apresentacao__conteudo {
-	width: 615px;
+	/* width: 615px; */
+	width: 50%;	/* Agora o texto irá acompanhar o tamanho da tela - quebrando linhas */
 	display: flex;
 	flex-direction: column;
 	gap: 40px;
 }
 
 .apresentacao__conteudo--titulo {
-	font-size: 36px;
+	font-size: 2.25rem;
 	font-family: var(--fonte-primaria);
 }
 
@@ -62,7 +63,7 @@ body {
 }
 
 .apresentacao__conteudo--texto {
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-family: var(--fonte-secundaria);
 }
 
@@ -76,21 +77,22 @@ body {
 
 .apresentacao__links__subtitulo {
 	font-family: var(--fonte-primaria);
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-weight: 400;
 }
 
-.apresentacao__links__link {
+.apresentacao__links__navegacao {
 	display: flex;
 	justify-content: center;
 	gap: 16px;
 
 	align-items: center;
 	border: 2px solid var(--cor-terciaria);
-	width: 378px;
+	/* width: 378px; */
+	width: 50%; /* Em relação ao elemento pai */
 	text-align: center;
 	border-radius: 8px;
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-weight: 600;
 	color: var(--cor-secundaria);
 	padding: 21.5px 0;
@@ -101,6 +103,10 @@ body {
 .apresentacao__links__link:hover {
 	cursor: pointer;
 	background-color: var(--cor-hover);
+}
+
+.apresentacao__imagem {
+	width: 50%;
 }
 
 img:hover {
@@ -114,7 +120,7 @@ img:hover {
 	color: var(--cor-primaria);
 	background-color: var(--cor-terciaria);
 	text-align: center;
-	font-size: 24px;
+	font-size: 1.5rem;
 	font-family: var(--fonte-secundaria);
 	font-weight: 400;
 }
